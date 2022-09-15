@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="leave blank now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadil-khalifa-7361031b6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zhiyong-chen-a5313b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadil-khalifa-7361031b6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Currently learning Languages or Database or tools or..... :</h3>
