@@ -3,7 +3,7 @@
 
 
 - 👀 I’m currently looking for jobs
-- 🌱 I’m currently learning js and react.js...
+- 🌱 I’m currently learning react.js...
 - 💞️ I’m looking to collaborate on any big project
 - 📫 How to reach me **czy1121098027@gmail.com **
 
